@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'cucumber', '~> 3.1'
+gem 'rails', '< 7.0.0'
+gem 'selenium-webdriver'
+gem 'capybara'
+gem 'webdrivers'
+#gem 'watir'
